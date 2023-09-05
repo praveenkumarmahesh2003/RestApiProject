@@ -1,0 +1,10 @@
+.list{
+    display: flex;
+    /* text-align: center; */
+    /* position: relative; */
+    list-style: none;
+    justify-content: space-around;
+    margin-left: 150vh;
+    margin-bottom: 90vh;
+  }
+  
